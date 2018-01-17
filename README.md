@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
+## How to run :
+
+First of all you have to install node.js and Angular CLI on your system.
+Open cmd and goto the app directory.
+First Install node modules by command "npm install".
+Then run "ng serve --open" to run it automatically on your browser.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

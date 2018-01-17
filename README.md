@@ -4,10 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to run :
 
-First of all you have to install node.js and Angular CLI on your system.
-Open cmd and goto the app directory.
-First Install node modules by command "npm install".
-Then run "ng serve --open" to run it automatically on your browser.
+First of all you have to install `node.js` and `Angular CLI` on your system.
+Open `cmd` and goto the app directory.
+First Install node modules by command `npm install`.
+Then run `ng serve --open` to run it automatically on your browser.
 
 ## Development server
 
